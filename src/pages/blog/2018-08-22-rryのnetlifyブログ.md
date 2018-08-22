@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-title: rryのNetlifyブログ!
+title: rryのNetlifyことはじめ!
 date: '2018-08-22T20:47:56+09:00'
-description: Hello World!
+description: '#netlifytokyo 参加しました。'
 tags:
   - '#netlifytokyo'
 ---
-Hello World!
+# Hello World!!
 
-ハロワしてみた(*^-^)
+![ベビー・グルート](/img/babygroot.jpg)
